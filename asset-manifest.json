@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactApp2/static/css/main.87f59e37.css",
+    "main.js": "/reactApp2/static/js/main.a2f9405a.js",
+    "static/js/453.ed3810f9.chunk.js": "/reactApp2/static/js/453.ed3810f9.chunk.js",
+    "static/media/image1.png": "/reactApp2/static/media/image1.99d62aac2ec4097fa4bb.png",
+    "static/media/image.png": "/reactApp2/static/media/image.20addbf01548ac4f7c23.png",
+    "static/media/user2.png": "/reactApp2/static/media/user2.3ac78d97639cb8e64501.png",
+    "static/media/user.png": "/reactApp2/static/media/user.1e6c3884cb539e413250.png",
+    "static/media/user1.png": "/reactApp2/static/media/user1.91cd12cb383790352681.png",
+    "static/media/icon.jpg": "/reactApp2/static/media/icon.c33702f82568f616c739.jpg",
+    "static/media/icon3.jpg": "/reactApp2/static/media/icon3.635b0f9355d2e3590db9.jpg",
+    "static/media/icon2.jpg": "/reactApp2/static/media/icon2.d7148eee72883874e786.jpg",
+    "static/media/icon1.jpg": "/reactApp2/static/media/icon1.9148bb8adb5594b50af1.jpg",
+    "static/media/icon5.png": "/reactApp2/static/media/icon5.97b74f09ac7f7eeed25f.png",
+    "static/media/icon6.png": "/reactApp2/static/media/icon6.37e90299a98abdbbe3da.png",
+    "static/media/icon8.png": "/reactApp2/static/media/icon8.1aaff3281f8aeba87961.png",
+    "index.html": "/reactApp2/index.html",
+    "main.87f59e37.css.map": "/reactApp2/static/css/main.87f59e37.css.map",
+    "main.a2f9405a.js.map": "/reactApp2/static/js/main.a2f9405a.js.map",
+    "453.ed3810f9.chunk.js.map": "/reactApp2/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87f59e37.css",
+    "static/js/main.a2f9405a.js"
+  ]
+}
